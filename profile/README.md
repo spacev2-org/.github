@@ -17,9 +17,9 @@ Innovation: Pushing the boundaries of what’s possible through cutting-edge tec
 Transparency: Sharing our smart contract code and developments with the community to promote accountability.
 
 ## Current Projects 🌱
-[SV2 Shares](https://shares.spacev2.org/): A crypto token designed to raise funds for our development and provide a transparent, shared-profit model for investors.
-Project #370202: Our flagship project, aimed to restore cryptocurrency to its original purpose as everyday currency, moving beyond its current use as a trading asset.
-Project #370203: Accelerate and enhance the development of Artificial Intelligence, enabling humans to reap the benefits of these advancements.
+ - [SV2 Shares](https://shares.spacev2.org/): A crypto token designed to raise funds for our development and provide a transparent, shared-profit model for investors.
+ - Project #370202: Our flagship project, aimed to restore cryptocurrency to its original purpose as everyday currency, moving beyond its current use as a trading asset.
+ - Project #370203: Accelerate and enhance the development of Artificial Intelligence, enabling humans to reap the benefits of these advancements.
 
 ## Links 🔗
  - [Space V2 Website](https://spacev2.org/)
