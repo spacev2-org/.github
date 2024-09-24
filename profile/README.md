@@ -11,10 +11,10 @@ Welcome to [Space V2](https://spacev2.org/), a community of dedicated specialist
 At Space V2, we aim to create a future where financial systems, governance, and technology are fair and transparent for all. Our goal is to empower individuals and communities by providing them with the tools to access decentralized finance and build innovative solutions on top of blockchain technology.
 
 ## Core Values 🌐
-Equity: Ensuring everyone has equal access to technology and opportunity.
-Privacy: Protecting user data and ensuring secure, trustless environments.
-Innovation: Pushing the boundaries of what’s possible through cutting-edge technologies.
-Transparency: Sharing our smart contract code and developments with the community to promote accountability.
+ - Equity: Ensuring everyone has equal access to technology and opportunity.
+ - Privacy: Protecting user data and ensuring secure, trustless environments.
+ - Innovation: Pushing the boundaries of what’s possible through cutting-edge technologies.
+ - Transparency: Sharing our smart contract code and developments with the community to promote accountability.
 
 ## Current Projects 🌱
  - [SV2 Shares](https://shares.spacev2.org/): A crypto token designed to raise funds for our development and provide a transparent, shared-profit model for investors.
